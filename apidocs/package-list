@@ -1,1 +1,3 @@
 net.openhft.chronicle.bytes
+net.openhft.chronicle.bytes.algo
+net.openhft.chronicle.bytes.util
